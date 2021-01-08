@@ -8,8 +8,7 @@
 
 |  | |
 |---|---|
-| <img src="http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png" alt="HARPimage" width="300"/> | <img src="http://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0171.jpg" width="300"> |
-
+| <img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIBC.jpg" alt="HARPimage" width="300"/> | <img src="http://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0171.jpg" width="300"> |
 
 ---
 [Sentry turret with a raspberry pi](https://github.com/Dewald928/PiSentryTurret)
