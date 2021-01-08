@@ -38,13 +38,12 @@
 - [Google sheets and drive api scripting](https://github.com/Dewald928/gsheet_scripts)
 - [Web automation](https://github.com/Dewald928/get-springer-books)
 
-[comment]: <> (- [Project 3 Title]&#40;http://example.com/&#41;)
-
-[comment]: <> (- [Project 4 Title]&#40;http://example.com/&#41;)
-
-[comment]: <> (- [Project 5 Title]&#40;http://example.com/&#41;)
-
 ---
+
+### NDA projects
+
+- Game bot
+- Crop detection with satellite imaging
 
 ### Licenses and certifications
 Available on my [linkedin](https://www.linkedin.com/in/dewald-k-6a080298/) profile.
