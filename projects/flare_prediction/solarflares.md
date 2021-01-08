@@ -23,7 +23,7 @@ After extensive experimenting we selected our best models to test on the "held-o
 We tested for various metrics, most prominently the True Skill Statistic (TSS).
 Our models were investigated with multiple evaluation plots.
 
-<img src="../flare_prediction/PP_NOAA_12017.pdf?raw=true"/>
+<img src="../flare_prediction/PP_NOAA_12017-1.png?raw=true"/>
 
 ### 4. Deployment
 As a proof of concept, we deployed our model in a near-realtime setting by using the MLP model.
