@@ -4,11 +4,11 @@
 
 ### Major Projects
 
-[Solar flare prediction with Deep Neural Networks](/projects/flare_prediction/solarflares)
+[Solar flare prediction with Deep Neural Networks](./projects/flare_prediction/solarflares.md)
 
 |  | |
 |---|---|
-| <img src="http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png" alt="HARPimage" width="500"/> | <img src="http://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0171.jpg" width="500"> |
+| <img src="http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png" alt="HARPimage" width="300"/> | <img src="http://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0171.jpg" width="300"> |
 
 
 
